@@ -1,7 +1,16 @@
-.sassy {
-  color: blue;
-}
+body {
+  background-color: #F4D03F; }
 
-.child {
-  font-size: 100px;
-}
+h1 {
+  color: #2874A6;
+  font-family: "arial";
+  font-size: 100px; }
+
+.myButton {
+  padding: 100px 200px;
+  background-color: rgba(40, 116, 166, 0.9);
+  color: #d8eaf5;
+  border: 20px solid #236691;
+  font-size: 100px; }
+
+/*# sourceMappingURL=styles.css.map */

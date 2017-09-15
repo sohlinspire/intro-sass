@@ -1,0 +1,22 @@
+$cl: #2874A6;
+$ff: 'arial';
+$sz: 100px;
+$bg: #F4D03F;
+
+body {
+  background-color: $bg;
+}
+
+h1 {
+  color: $cl;
+  font-family: $ff;
+  font-size: $sz
+}
+
+.myButton {
+  padding: 100px 200px;
+  background-color: rgba($cl, 0.9);
+  color: lighten($cl, 50%);
+  border: 20px solid darken($cl, 5%);
+  font-size: $sz
+}
